@@ -6,7 +6,6 @@
 #
 
 #these help the game run multiple times
-from operator import and_
 import time
 
 phone = "no"
